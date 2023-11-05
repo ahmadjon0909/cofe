@@ -1,0 +1,265 @@
+.text_img {
+    background-image: url("/asset/img/kofejashka.jpg");
+    background-repeat: no-repeat;
+    padding: 117px 0 117px 85px;
+    border-radius: 10px;
+    margin-top: 48px;
+}
+
+.text_acin {
+    color: #FEFCF7;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 72px;
+}
+
+.text_p {
+    color: #FEFCF7;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 445px;
+    margin-top: 32px;
+}
+
+.text_btn {
+    width: 217px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #0E8784;
+    color: #FEFCF7;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+    margin-top: 56px;
+}
+
+.section {
+    background-image: url("/asset/img/Group.jpg");
+    background-repeat: no-repeat;
+    width: 1111px;
+    height: 196px;
+    margin: 0 auto;
+    margin-top: 100px;
+    position: relative;
+}
+
+.text-h4 {
+    width: 255px;
+    text-align: center;
+    color: #333D4B;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+    margin-bottom: 24px;
+}
+
+.text-p {
+    width: 255px;
+    color: #333D4B;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.text-ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 30px;
+    position: absolute;
+    top: 130px;
+}
+
+.section-2 {
+    background-color: #2C343E;
+    padding: 100px 0px 317px 0px;
+    border-radius: 10px;
+    margin-top: 300px;
+    position: relative;
+}
+
+.text-h2 {
+    color: #FEFCF7;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 48px;
+}
+
+.text_p-2 {
+    margin: 0 auto;
+    margin-top: 32px;
+    width: 540px;
+    color: #FEFCF7;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.text_ssss {
+    position: absolute;
+    top: 364px;
+    left: 70px;
+}
+
+.text_ul {
+    display: flex;
+    flex-shrink: 0;
+    text-align: center;
+    gap: 0 30px;
+    justify-content: center;
+}
+
+.text_li {
+
+    border-radius: 8px;
+    background: #0E8784;
+    width: 350px;
+    height: 382px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.text-2 {
+    margin-top: 56px;
+    color: #FEFCF7;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+}
+
+.text_ss {
+    color: #FEFCF7;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 24px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    width: 255px;
+}
+
+.text_ims {
+    margin-top: 72px;
+}
+
+.section-3 {
+    margin-top: 400px;
+    position: relative;
+}
+
+.text-p-3 {
+    color: #83888F;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+    margin-bottom: 80px;
+}
+
+.div {
+    width: 760px;
+    height: 3px;
+    flex-shrink: 0;
+    stroke-width: 2px;
+    background-color: grey;
+}
+
+.span {
+    width: 31px;
+    height: 31px;
+    flex-shrink: 0;
+    background-color: floralwhite;
+    border-radius: 50%;
+    border: solid 3px #0E8784;
+    position: absolute;
+    top: 110px;
+}
+
+.span_2 {
+    width: 31px;
+    height: 31px;
+    flex-shrink: 0;
+    background-color: floralwhite;
+    border-radius: 50%;
+    border: solid 3px #0E8784;
+    position: absolute;
+    left: 349px;
+    top: 110px;
+}
+
+.span_3 {
+    width: 31px;
+    height: 31px;
+    flex-shrink: 0;
+    background-color: floralwhite;
+    border-radius: 50%;
+    border: solid 3px #0E8784;
+    position: absolute;
+    left: 729px;
+    top: 110px;
+
+}
+
+.cofe-01 {
+    margin-top: 82px;
+    color: #FDD6BA;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 72px;
+}
+
+.text-h2-h4 {
+    margin-top: 38px;
+    color: #333D4B;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 36px;
+    width: 255px;
+}
+
+.text_p_o {
+    width: 285px;
+    margin-top: 42px;
+    color: #333D4B;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.cofe-ul {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0 80px;
+}
+
+.btn {
+    margin-top: 79px;
+    width: 217px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #0E8784;
+    color: #FEFCF7;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+}
+

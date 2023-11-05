@@ -1,0 +1,24 @@
+.header {
+    padding: 44px 0 20px 0;
+}
+
+.text_fex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title {
+    display: flex;
+    gap: 0 33px;
+}
+
+.list  a {
+    color: #83888F;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+}
